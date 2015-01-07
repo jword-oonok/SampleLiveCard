@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SampleLiveCard</string>
+    <string name="title_activity_live_card_service">Sample LiveCard</string>
+    <string name="action_stop">Stop</string>
+    <string name="sample_text">Sample Live Card.</string>
+
+</resources>
